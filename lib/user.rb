@@ -1,6 +1,6 @@
 require 'pry'
 
-class User
+class User()
 
 
 end
